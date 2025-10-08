@@ -7,7 +7,7 @@ The goal is to understand patterns, compare country-level data, and highlight gl
 
 ## 📂 Files
 - `Covid-2019.ipynb` — Jupyter Notebook containing the full data cleaning, analysis, and visualization process.
-- `/covid_19_data.csv` — Dataset used for the analysis.
+- `covid_19_data.csv` — Dataset used for the analysis.
 
 ## ⚙️ Requirements
 To run the notebook, install the following Python libraries:
